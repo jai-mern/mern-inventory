@@ -1,4 +1,4 @@
-# Inventory Management App
+# Inventory billing App
 
 A simple ***Inventory Management*** web application with basic CRUD operations and Authentication built using MERN stack.
 
